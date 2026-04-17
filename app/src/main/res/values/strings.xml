@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Horapp</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="history">Historial</string>
+    <string name="profile">Perfil</string>
+    
+    <!-- Dashboard -->
+    <string name="hello_user">Hola, %s</string>
+    <string name="service_hub">ServiceHub</string>
+    <string name="service_social_log">Tu bitácora de servicio social</string>
+    <string name="total_progress">Progreso Total</string>
+    <string name="log_hours">Registrar Horas</string>
+    <string name="total_hours_label">Horas totales</string>
+    <string name="activities_label">Actividades</string>
+    <string name="hrs_unit">hrs</string>
+    <string name="logs_unit">logs</string>
+    <string name="milestones">Hitos</string>
+    <string name="meta_label">META</string>
+    <string name="hrs_unit_format">%1$.1f hrs</string>
+    <string name="progress_format">%1$.1f / %2$.0f hrs</string>
+
+    <!-- Profile -->
+    <string name="student_profile">Perfil del Estudiante</string>
+    <string name="personal_info">Información Personal</string>
+    <string name="edit">Editar</string>
+    <string name="name_label">Nombre</string>
+    <string name="id_label">Matrícula</string>
+    <string name="email_label">Correo</string>
+    <string name="major_label">Carrera</string>
+    <string name="service_location_label">Lugar de servicio</string>
+    <string name="institution_label">Institución</string>
+    <string name="hours_goal_label">Meta de horas</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="full_name_label">Nombre completo</string>
+    <string name="export_report">Exportar Reporte</string>
+    <string name="export_report_desc">Genera un PDF con tu historial completo de horas.</string>
+    <string name="export_to_pdf_btn">Exportar como PDF</string>
+    <string name="share_pdf_title">Compartir reporte PDF</string>
+
+    <!-- Setup -->
+    <string name="welcome">Bienvenido</string>
+    <string name="setup_profile_desc">Configura tu perfil para comenzar</string>
+    <string name="student_info">Información del Estudiante</string>
+    <string name="id_control_label">Matrícula / No. de control</string>
+    <string name="institutional_email_label">Correo institucional</string>
+    <string name="service_location_setup_label">Lugar de servicio social</string>
+    <string name="institution_setup_label">Institución / Universidad</string>
+    <string name="meta_hours_setup_label">Meta de horas de servicio</string>
+    <string name="start_log_btn">Comenzar mi Bitácora</string>
+
+    <!-- Log Hours -->
+    <string name="back_btn">Regresar</string>
+    <string name="log_details">Detalles del Registro</string>
+    <string name="log_details_desc">El reporte preciso garantiza la certificación correcta.</string>
+    <string name="service_date">Fecha del Servicio</string>
+    <string name="organization_placeholder">¿Dónde realizaste el servicio?</string>
+    <string name="organization_label">Organización</string>
+    <string name="hours_label">Horas</string>
+    <string name="category_label">Categoría</string>
+    <string name="activities_desc_label">Descripción de actividades</string>
+    <string name="activities_desc_placeholder">Describe las actividades que realizaste y su impacto...</string>
+    <string name="save_log_btn">Guardar Registro</string>
+    <string name="save_error">Error al guardar el registro</string>
+
+    <!-- History -->
+    <string name="history_title">Historial de Actividades</string>
+    <string name="history_desc">Revisa y gestiona tus registros de servicio.</string>
+    <string name="hours_format">%.1f horas</string>
+    <string name="records_shown_format">%d registros mostrados</string>
+    <string name="search_placeholder">Buscar actividades...</string>
+    <string name="no_results">Sin resultados</string>
+    <string name="delete_record_title">Eliminar registro</string>
+    <string name="delete_record_confirm">¿Estás seguro de que deseas eliminar este registro? Esta acción no se puede deshacer.</string>
+    <string name="delete_btn">Eliminar</string>
+
+    <!-- PDF Report -->
+    <string name="pdf_title">Bitácora de Servicio Social</string>
+    <string name="pdf_header_title">Bitácora de Servicio Social</string>
+    <string name="pdf_generated_at">Generado el %s</string>
+    <string name="pdf_student_data_section">DATOS DEL ESTUDIANTE</string>
+    <string name="pdf_label_name">Nombre:</string>
+    <string name="pdf_label_id">Matrícula:</string>
+    <string name="pdf_label_major">Carrera:</string>
+    <string name="pdf_label_location">Lugar serv.:</string>
+    <string name="pdf_label_email">Correo:</string>
+    <string name="pdf_summary_format">de %1$.0f hrs meta  ·  %2$d registros</string>
+    <string name="pdf_activities_section">HISTORIAL DE ACTIVIDADES</string>
+    <string name="pdf_col_date">Fecha</string>
+    <string name="pdf_col_org">Organización</string>
+    <string name="pdf_col_category">Categoría</string>
+    <string name="pdf_col_hours">Horas</string>
+    <string name="pdf_footer_text">Reporte generado por Horapp  ·  %d</string>
+</resources>

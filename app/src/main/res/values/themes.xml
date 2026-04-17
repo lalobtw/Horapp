@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base theme requerido por el sistema; la UI real es Compose -->
+    <style name="Theme.Horapp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
